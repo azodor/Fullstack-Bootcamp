@@ -32,3 +32,5 @@ Está utilizando ecmascript, por lo que utiliza `import`
 * EL código que hay dentro del JS como HTML se llama JSX y lo transforma en JS cuando se compila
 
 * ReactDOM es una librería para poder utilizar React en el navegador
+
+* Es importante usar paréntesis para evitar sustos cuando devolvemos código de varias líneas (se devolvería la primera línea únicamente)
